@@ -9,10 +9,14 @@ See = perceptify
 Better/over = excessify
 Fun = amusa 
 
+Be/Is = i' 
+Have = art
+Make = fani
+
 Me = n'tu
 We = w'tu
-they = il'tu
-you = do'tu
+They = il'tu
+You = do'tu
 
 The = de
 New = crono 
@@ -69,7 +73,6 @@ Some = partii
 With = inclu
 For = perposa
 Nevermind = forgo
-Is = i' 
 Will = planna
 Surprise = beezt
 Educational = edulearnify

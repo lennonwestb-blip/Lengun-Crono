@@ -1,88 +1,98 @@
-And = arn 
-But = ex
-Is = i' 
-Yes = si
-So = co
-Or = altern 
-No = no
-How = ho
-Of = o
-The = de
-Be/Is = i' 
-Have = art
-Make = fani
-Very = mucho
+# NOTES
+* means "too englishy; change later"
 
-Me = n'tu
-We = w'tu
-they = il'tu
-you = do'tu
-New = crono 
+# NOUNS
+blabber: language
+pary: word
+mori: death
+pictora: photo
+expressify de pictora: profile picture
+* sunnyriseyup: morning
+* sunnyupahead: noon
+* sunnyafterupahead: afternoon
+* sunnygoeydown: evening 
+* sunnyatbutthole: night
+querle: question
+aplicatia: project
+inglais: english
+biblify: book/reading
+excavatiana: hole
+homaga: reference
+numerade: number
+tributrial: court/trial
+* nam'e: name
+respondere: response
+* lockerpick: key
+delocker: translator
+* eshootyfire: flair
+beezt: surprise
+bore: account
 
-Fun = amusa 
-Profile picture = expressify de pictora 
-Death = mori
-Tsa = hi
-See = perceptify
-Better/over = excessify
-Me too = similify
-Morning = sunnyriseyup
-Noon = sunnyupahead
-Afternoon sunnyafterupahead
-Evening sunnygoeydown
-Night = sunnyatbutthole
-Sleep = sunnyatbutthole mori
-Stupid = estupide
-Question = querle
-Clarify = clariate 
-Project = aplicatia
-Sees Referance = homaga
-Magnet = electra
-Magnetite = electro materali
-Dice = randara cubos
-Too much = excesse 
-Number = numerade
-Book/reading = biblify
-Court/trial = tributrial
-English = inglais
-Hole = excavatiana
-Photo = pictora
-Scary = enfrightify
-Hypothetical = hypothicus
-Name = nam'e
-Allowed = permitada
-Understood = comprhande
-Response = respondere
-Feel = emotla
-Create = shoota
-Language = blabber 
-If I understand correctly = meshoopita
-Normal = stand
-Fix = repairo
-Words = parys
-Different =sepe
-Only = solo/ shell
-Key = lockerpick
-Encoded = lockerpicked
-Online = netter
-Translator = delocker
-Fast = vroomvroom
-Type = tippytappy
-Confused = makeamedizzy
-Flair = eshootyfire
-Please = begga
-Some = partii
-With = inclu
-For = perposa
-Nevermind = forgo
-Will = planna
-Surprise = beezt
-Educational = edulearnify
-Inspired = cogname
-Arguably = blabbable
-Great = feary
-Obvious/obviosness = cuale
-Steal = arrrr
-Account = bore
-Give = kindle
-from = agar
+# VERBS
+art: have
+fani: make
+kindle: give
+* sunnyatbutthole mori: sleep
+perceptify: see
+clariate: clarify
+comprande: understand
+emotla: feel
+repairo: fix
+shoota: create
+* tippytappy: type
+arrrr: steal
+
+# ADJECTIVES
+crono: new
+amusa: fun
+excessify: better/over (might this be confused for "too much"?)
+excesse: too much
+estupide: stupid
+hypothicus: hypothetical
+permitada: allowed
+enfrightify: scary
+stand: normal
+epe: different
+* lockerpicked: encoded
+netter: online
+* vroomvroom: fast
+* makeamedizzy: confused
+cogname: inspired
+* edulearnify: educational
+feary: great
+* blabbable: arguable
+cuale: obvious
+
+# CONJUNCTIONS
+arn: and
+ex: but
+i': is
+si: yes
+co: so
+altern: or
+no: no
+ho: how
+o: of
+de: the
+i': be/is
+mucho: very
+solo/shell: only
+perposa: for
+inclu: with
+partii: some
+agar: from 	(past tense (i did) when it comes before verbs (n'tu agar perceptify -> i saw))
+planna: will (future tense (i will do) when it comes before verbs (n'tu planna perceptify -> i will see))
+
+
+# PRONOUNS
+n'tu: me
+w'tu: we
+il'tu: they
+do'tu: you
+
+# INTERJECTIONS
+hi: tsa
+similify: me too
+meshoopita: if i understand correctly (do we need this?)
+begga: please
+forgo: nevermind
